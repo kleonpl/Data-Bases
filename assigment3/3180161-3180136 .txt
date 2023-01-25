@@ -1,0 +1,6 @@
+ΠΑΛΑΙΟΛΟΓΟΣ ΚΛΕΑΝΘΗΣ p3180136
+ΠΡΟΦΗΣ ΙΩΑΝΝΗΣ  p3180161
+Endpoint : profis-palaiologos.postgres.database.azure.com
+Username : examiner 
+Password : 1234
+Database : postgres/giannisp@profis-palaiologos
